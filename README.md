@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-For tutorial purposes
+For tutorial purposes and some practice
